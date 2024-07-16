@@ -1,0 +1,402 @@
+[
+  {
+    "id": 443845557266415683,
+    "name": "Eric",
+    "age": 16,
+    "location": "toronto",
+    "feelings": {
+      "7": [
+        "Bad",
+        "Low",
+        "Normal",
+        "Poor",
+        "1 hour",
+        "Poor",
+        "Light snow"
+      ],
+      "6": [
+        "Bad",
+        "Medium",
+        "Normal",
+        "Poor",
+        "2 hour+",
+        "Poor",
+        "Light snow"
+      ],
+      "5": [
+        "Neutral",
+        "Low",
+        "Poor",
+        "Normal",
+        "1 hour",
+        "Poor",
+        "Light snow"
+      ],
+      "4": [
+        "Bad",
+        "Medium",
+        "Normal",
+        "Extreme",
+        "2 hour+",
+        "Poor",
+        "Light snow"
+      ],
+      "3": [
+        "Bad",
+        "Medium",
+        "Normal",
+        "Normal",
+        "1 hour",
+        "Normal",
+        "Light snow"
+      ],
+      "2": [
+        "Good",
+        "Medium",
+        "Great",
+        "Normal",
+        "< 30 minutes",
+        "Poor",
+        "Snow showers"
+      ],
+      "1": [
+        "Neutral",
+        "Low",
+        "Normal",
+        "Normal",
+        "< 30 minutes",
+        "Poor",
+        "Snow showers"
+      ],
+      "0": [
+        "Bad",
+        "Medium",
+        "Normal",
+        "Normal",
+        "1 hour",
+        "Poor",
+        "Snow showers"
+      ]
+    }
+  },
+  {
+    "id": 558245299978633216,
+    "name": "Jeffery",
+    "age": 23,
+    "location": "Toronto",
+    "feelings": {
+      "7": [
+        "Bad",
+        "Low",
+        "Normal",
+        "Poor",
+        "2 hour+",
+        "Poor",
+        "Light snow"
+      ],
+      "6": [
+        "Neutral",
+        "Low",
+        "Normal",
+        "Normal",
+        "1 hour",
+        "Poor",
+        "Light snow"
+      ],
+      "5": [
+        "Good",
+        "Medium",
+        "Great",
+        "Normal",
+        "2 hour+",
+        "Normal",
+        "Light snow"
+      ],
+      "4": [
+        "Good",
+        "High",
+        "Normal",
+        "Normal",
+        "1 hour",
+        "Great",
+        "Light snow"
+      ],
+      "3": [
+        "Good",
+        "Medium",
+        "Great",
+        "Normal",
+        "< 30 minutes",
+        "Poor",
+        "Cloudy"
+      ],
+      "2": [
+        "Good",
+        "Medium",
+        "Normal",
+        "Normal",
+        "2 hour+",
+        "Normal",
+        "Sunny"
+      ],
+      "1": [
+        "Good",
+        "High",
+        "Normal",
+        "Normal",
+        "1 hour",
+        "Normal",
+        "Cloudy"
+      ],
+      "0": [
+        "Good",
+        "High",
+        "Great",
+        "Extreme",
+        "2 hour+",
+        "Great",
+        "Light snow"
+      ]
+    }
+  },
+  {
+    "id": 554420399878832131,
+    "name": "",
+    "age": 16,
+    "location": "Toronto",
+    "feelings": {
+      "7": [
+        "Neutral",
+        "High",
+        "Normal",
+        "Extreme",
+        "< 30 minutes",
+        "Normal",
+        "Sunny"
+      ],
+      "6": [
+        "Good",
+        "Medium",
+        "Great",
+        "Normal",
+        "2 hour+",
+        "Normal",
+        "Breezy"
+      ],
+      "5": [
+        "Neutral",
+        "High",
+        "Great",
+        "Normal",
+        "1 hour",
+        "Normal",
+        "Cloudy"
+      ],
+      "4": [
+        "Bad",
+        "Medium",
+        "Great",
+        "Extreme",
+        "< 30 minutes",
+        "Normal",
+        "Mostly Cloudy"
+      ],
+      "3": [
+        "Neutral",
+        "Medium",
+        "Poor",
+        "Extreme",
+        "1 hour",
+        "Poor",
+        "Rain"
+      ],
+      "2": [
+        "Bad",
+        "Low",
+        "Poor",
+        "Extreme",
+        "1 hour",
+        "Normal",
+        "Partly Cloudy"
+      ],
+      "1": [
+        "Bad",
+        "Medium",
+        "Poor",
+        "Extreme",
+        "< 30 minutes",
+        "Poor",
+        "Showers"
+      ],
+      "0": [
+        "Good",
+        "Medium",
+        "Great",
+        "Normal",
+        "1 hour",
+        "Normal",
+        "Light snow"
+      ]
+    }
+  },
+  {
+    "id": 554801613101858832,
+    "name": "Sam",
+    "age": 16,
+    "location": "Toronto",
+    "feelings": {
+      "7": [
+        "Neutral",
+        "High",
+        "Normal",
+        "Extreme",
+        "< 30 minutes",
+        "Normal",
+        "Sunny"
+      ],
+      "6": [
+        "Good",
+        "Medium",
+        "Great",
+        "Normal",
+        "2 hour+",
+        "Normal",
+        "Breezy"
+      ],
+      "5": [
+        "Neutral",
+        "High",
+        "Great",
+        "Normal",
+        "1 hour",
+        "Normal",
+        "Cloudy"
+      ],
+      "4": [
+        "Bad",
+        "Medium",
+        "Great",
+        "Extreme",
+        "< 30 minutes",
+        "Normal",
+        "Mostly Cloudy"
+      ],
+      "3": [
+        "Neutral",
+        "Medium",
+        "Poor",
+        "Extreme",
+        "1 hour",
+        "Poor",
+        "Rain"
+      ],
+      "2": [
+        "Bad",
+        "Low",
+        "Poor",
+        "Extreme",
+        "1 hour",
+        "Normal",
+        "Partly Cloudy"
+      ],
+      "1": [
+        "Bad",
+        "Medium",
+        "Poor",
+        "Extreme",
+        "< 30 minutes",
+        "Poor",
+        "Showers"
+      ],
+      "0": [
+        "Good",
+        "Medium",
+        "Great",
+        "Normal",
+        "1 hour",
+        "Normal",
+        "Light snow"
+      ]
+    }
+  },
+  {
+    "id": 505470292072726533,
+    "name": "Jeffery",
+    "age": 16,
+    "location": "Toronto",
+    "feelings": {
+      "7": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "6": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "5": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "4": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "3": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "2": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "1": [
+        "Bad",
+        "Low",
+        "Poor",
+        "Poor",
+        "2 hour+",
+        "Great",
+        "Light rain showers"
+      ],
+      "0": [
+        "Good",
+        "High",
+        "Normal",
+        "Normal",
+        "1 hour",
+        "Poor",
+        "Light rain showers"
+      ]
+    }
+  }
+]
