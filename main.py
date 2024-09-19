@@ -1,5 +1,6 @@
 # SAD Discord Bot
-# Made by Jeffery, Jonathan, Samuel, and Eric <3
+# Made by Jeffery, Jonathan, Samuel, and Eric <3 
+#yum yum commit testpin
 # Created for Steel City Hacks 2024: Winter Hackathon
 # Link: https://schwinter2024.devpost.com/
 
